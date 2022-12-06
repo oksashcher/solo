@@ -1,0 +1,15 @@
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.csproj.AssemblyReference.cache
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.AssemblyInfoInputs.cache
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.AssemblyInfo.cs
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.csproj.CoreCompileInputs.cache
+/Users/ila/seminar3/tasks/bin/Debug/net7.0/tasks
+/Users/ila/seminar3/tasks/bin/Debug/net7.0/tasks.deps.json
+/Users/ila/seminar3/tasks/bin/Debug/net7.0/tasks.runtimeconfig.json
+/Users/ila/seminar3/tasks/bin/Debug/net7.0/tasks.dll
+/Users/ila/seminar3/tasks/bin/Debug/net7.0/tasks.pdb
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.dll
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/refint/tasks.dll
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.pdb
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/tasks.genruntimeconfig.cache
+/Users/ila/seminar3/tasks/obj/Debug/net7.0/ref/tasks.dll

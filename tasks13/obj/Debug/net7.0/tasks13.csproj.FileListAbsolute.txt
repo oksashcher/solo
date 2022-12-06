@@ -1,0 +1,15 @@
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.csproj.AssemblyReference.cache
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.AssemblyInfoInputs.cache
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.AssemblyInfo.cs
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.csproj.CoreCompileInputs.cache
+/Users/ila/seminar3/tasks13/bin/Debug/net7.0/tasks13
+/Users/ila/seminar3/tasks13/bin/Debug/net7.0/tasks13.deps.json
+/Users/ila/seminar3/tasks13/bin/Debug/net7.0/tasks13.runtimeconfig.json
+/Users/ila/seminar3/tasks13/bin/Debug/net7.0/tasks13.dll
+/Users/ila/seminar3/tasks13/bin/Debug/net7.0/tasks13.pdb
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.dll
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/refint/tasks13.dll
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.pdb
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/tasks13.genruntimeconfig.cache
+/Users/ila/seminar3/tasks13/obj/Debug/net7.0/ref/tasks13.dll

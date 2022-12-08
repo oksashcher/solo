@@ -1,0 +1,15 @@
+/Users/ila/sem/task013/bin/Debug/net7.0/task013
+/Users/ila/sem/task013/bin/Debug/net7.0/task013.deps.json
+/Users/ila/sem/task013/bin/Debug/net7.0/task013.runtimeconfig.json
+/Users/ila/sem/task013/bin/Debug/net7.0/task013.dll
+/Users/ila/sem/task013/bin/Debug/net7.0/task013.pdb
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.csproj.AssemblyReference.cache
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.AssemblyInfoInputs.cache
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.AssemblyInfo.cs
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.csproj.CoreCompileInputs.cache
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.dll
+/Users/ila/sem/task013/obj/Debug/net7.0/refint/task013.dll
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.pdb
+/Users/ila/sem/task013/obj/Debug/net7.0/task013.genruntimeconfig.cache
+/Users/ila/sem/task013/obj/Debug/net7.0/ref/task013.dll

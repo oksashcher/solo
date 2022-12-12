@@ -1,0 +1,15 @@
+/Users/ila/sem/task23/bin/Debug/net7.0/task23
+/Users/ila/sem/task23/bin/Debug/net7.0/task23.deps.json
+/Users/ila/sem/task23/bin/Debug/net7.0/task23.runtimeconfig.json
+/Users/ila/sem/task23/bin/Debug/net7.0/task23.dll
+/Users/ila/sem/task23/bin/Debug/net7.0/task23.pdb
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.csproj.AssemblyReference.cache
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.AssemblyInfoInputs.cache
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.AssemblyInfo.cs
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.csproj.CoreCompileInputs.cache
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.dll
+/Users/ila/sem/task23/obj/Debug/net7.0/refint/task23.dll
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.pdb
+/Users/ila/sem/task23/obj/Debug/net7.0/task23.genruntimeconfig.cache
+/Users/ila/sem/task23/obj/Debug/net7.0/ref/task23.dll

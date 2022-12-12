@@ -1,0 +1,15 @@
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.csproj.CoreCompileInputs.cache
+/Users/ila/sem/task21/bin/Debug/net7.0/task21
+/Users/ila/sem/task21/bin/Debug/net7.0/task21.deps.json
+/Users/ila/sem/task21/bin/Debug/net7.0/task21.runtimeconfig.json
+/Users/ila/sem/task21/bin/Debug/net7.0/task21.dll
+/Users/ila/sem/task21/bin/Debug/net7.0/task21.pdb
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.dll
+/Users/ila/sem/task21/obj/Debug/net7.0/refint/task21.dll
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.pdb
+/Users/ila/sem/task21/obj/Debug/net7.0/task21.genruntimeconfig.cache
+/Users/ila/sem/task21/obj/Debug/net7.0/ref/task21.dll

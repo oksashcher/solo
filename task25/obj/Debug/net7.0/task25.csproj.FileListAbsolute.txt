@@ -1,0 +1,15 @@
+/Users/ila/sem/task25/bin/Debug/net7.0/task25
+/Users/ila/sem/task25/bin/Debug/net7.0/task25.deps.json
+/Users/ila/sem/task25/bin/Debug/net7.0/task25.runtimeconfig.json
+/Users/ila/sem/task25/bin/Debug/net7.0/task25.dll
+/Users/ila/sem/task25/bin/Debug/net7.0/task25.pdb
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.dll
+/Users/ila/sem/task25/obj/Debug/net7.0/refint/task25.dll
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.pdb
+/Users/ila/sem/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache
+/Users/ila/sem/task25/obj/Debug/net7.0/ref/task25.dll

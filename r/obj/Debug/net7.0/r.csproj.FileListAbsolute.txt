@@ -1,0 +1,15 @@
+/Users/ila/m/r/bin/Debug/net7.0/r
+/Users/ila/m/r/bin/Debug/net7.0/r.deps.json
+/Users/ila/m/r/bin/Debug/net7.0/r.runtimeconfig.json
+/Users/ila/m/r/bin/Debug/net7.0/r.dll
+/Users/ila/m/r/bin/Debug/net7.0/r.pdb
+/Users/ila/m/r/obj/Debug/net7.0/r.csproj.AssemblyReference.cache
+/Users/ila/m/r/obj/Debug/net7.0/r.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/m/r/obj/Debug/net7.0/r.AssemblyInfoInputs.cache
+/Users/ila/m/r/obj/Debug/net7.0/r.AssemblyInfo.cs
+/Users/ila/m/r/obj/Debug/net7.0/r.csproj.CoreCompileInputs.cache
+/Users/ila/m/r/obj/Debug/net7.0/r.dll
+/Users/ila/m/r/obj/Debug/net7.0/refint/r.dll
+/Users/ila/m/r/obj/Debug/net7.0/r.pdb
+/Users/ila/m/r/obj/Debug/net7.0/r.genruntimeconfig.cache
+/Users/ila/m/r/obj/Debug/net7.0/ref/r.dll
